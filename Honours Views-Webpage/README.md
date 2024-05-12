@@ -1,6 +1,6 @@
-# Blog Website - THE DAILY PULSE
+# Honours Views-WebPage
 
-Welcome to the Blog Website project! This is a simple web application built with React.js for the frontend and Express.js for the backend, allowing users to create, view, update, and delete blog posts.
+Welcome to the project! This is a simple web application built with React.js for the frontend and Express.js for the backend, allowing users to create, view, update, and delete blog posts.
 
 ## Getting Started
 
@@ -35,7 +35,7 @@ example:
     ```
 4. Start the backend server by running `npm start`.
     ```bash
-    cd blog-website
+    cd Honours Views-WebPage
     cd backend
     nodemon index.js
    ```
@@ -43,7 +43,7 @@ example:
 ### Frontend
 1. Navigate to the `frontend` directory.
 ```bash
-    cd blog-website
+    cd Honours Views-WebPage
     
    ```
 2. Run `npm install` to install dependencies.
@@ -57,4 +57,4 @@ example:
    ```
 
 ## Usage
-Once the backend and frontend servers are running, you can access the blog website in your browser. Users can register, log in, create new blog posts, view their own blogs,  and delete blogs.
+Once the backend and frontend servers are running, you can access the Views-WebPage in your browser. Users can register, log in, create new posts, view their own views, and delete views.
